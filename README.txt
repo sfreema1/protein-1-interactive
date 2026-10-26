@@ -1,4 +1,4 @@
-Protein 1 interactive views
+HA1 interactive views
 
 Serve this directory over HTTP. The landing page opens view 1 of 7.
 Anonymous complete coordinate assets are embedded in the compiled and editable stories.
